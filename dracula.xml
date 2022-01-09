@@ -64,8 +64,8 @@
         <wcol_toolbar_item>
           <ThemeWidgetColors
             outline="#3d3d3d"
-            inner="#282828ff"
-            inner_sel="#4772b3ff"
+            inner="#282a36ff"
+            inner_sel="#6272a4ff"
             item="#ffffffb3"
             text="#e6e6e6"
             text_sel="#ffffff"
@@ -445,8 +445,8 @@
             <gradients>
               <ThemeGradientColors
                 background_type="RADIAL"
-                high_gradient="#44475a"
-                gradient="#000000"
+                high_gradient="#353d58"
+                gradient="#282a36"
                 >
               </ThemeGradientColors>
             </gradients>
