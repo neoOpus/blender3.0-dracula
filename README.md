@@ -16,6 +16,9 @@ This theme is maintained by the following person and a bunch of [awesome contrib
 --- |
 [Allie (ChildishGiant)](https://github.com/childishgiant) |
 
+[![Low Polygon Design](https://github.com/lowpolygon-design.png?size=100)](https://github.com/lowpolygon-design) |
+--- |
+[Low Polygon Design]() |
 ## License
 
 [MIT License](./LICENSE)
