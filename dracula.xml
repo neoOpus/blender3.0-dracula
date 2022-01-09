@@ -6,9 +6,9 @@
         menu_shadow_width="12"
         icon_alpha="1"
         icon_saturation="0.5"
-        widget_emboss="#f8f8f205"
-        editor_outline="#161616"
-        widget_text_cursor="#71a8ff"
+        widget_emboss="#242431ff"
+        editor_outline="#1f1f2a"
+        widget_text_cursor="#8be9fd"
         panel_roundness="0.4"
         transparent_checker_primary="#44475a"
         transparent_checker_secondary="#282a36"
@@ -184,9 +184,9 @@
         <wcol_menu>
           <ThemeWidgetColors
             outline="#282a36"
-            inner="#44475aff"
+            inner="#282a36ff"
             inner_sel="#6272a4ff"
-            item="#282a36ff"
+            item="#f8f8f2ff"
             text="#f8f8f2"
             text_sel="#cccccc"
             show_shaded="FALSE"
@@ -200,7 +200,7 @@
           <ThemeWidgetColors
             outline="#282a36"
             inner="#44475aff"
-            inner_sel="#2d2d2de6"
+            inner_sel="#6272a4e6"
             item="#282a36ff"
             text="#f8f8f2"
             text_sel="#f8f8f2"
@@ -259,8 +259,8 @@
         <wcol_menu_item>
           <ThemeWidgetColors
             outline="#282a36"
-            inner="#00000000"
-            inner_sel="#2d2d2de6"
+            inner="#282a3600"
+            inner_sel="#6272a4ff"
             item="#282a36ff"
             text="#f8f8f2"
             text_sel="#f8f8f2"
