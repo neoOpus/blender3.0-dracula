@@ -23,12 +23,12 @@
         gizmo_a="#4da84d"
         gizmo_b="#a33535"
         icon_scene="#ccccccff"
-        icon_collection="#ffffffff"
-        icon_object="#e19658ff"
-        icon_object_data="#00d4a3ff"
+        icon_collection="#f8f8f2ff"
+        icon_object="#ffb86cff"
+        icon_object_data="#50fa7bff"
         icon_modifier="#74a2ffff"
-        icon_shading="#cc6670ff"
-        icon_folder="#ccad63ff"
+        icon_shading="#ff5555ff"
+        icon_folder="#ffb86cff"
         icon_border_intensity="0"
         >
         <wcol_regular>
@@ -1327,14 +1327,14 @@
             back="#282a36"
             title="#f8f8f2"
             text="#c3c3c3"
-            text_hi="#ffffff"
+            text_hi="#f8f8f2"
             header="#282a36b3"
-            header_text="#eeeeee"
-            header_text_hi="#ffffff"
+            header_text="#f8f8f2"
+            header_text_hi="#f8f8f2"
             button="#44475a00"
-            button_title="#ffffff"
+            button_title="#f8f8f2"
             button_text="#cccccc"
-            button_text_hi="#ffffff"
+            button_text_hi="#f8f8f2"
             navigation_bar="#1d1d1dff"
             execution_buts="#303030ff"
             tab_active="#303030"
@@ -1344,8 +1344,8 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#3d3d3dff"
-                back="#3d3d3dff"
+                header="#282a36ff"
+                back="#282a36ff"
                 sub_back="#0000001f"
                 >
               </ThemePanelColors>
@@ -1355,8 +1355,8 @@
         <space_list>
           <ThemeSpaceListGeneric
             list="#44475a"
-            list_title="#c3c3c3"
-            list_text="#b8b8b8"
+            list_title="#f8f8f2"
+            list_text="#f8f8f2"
             list_text_hi="#ffaf23"
             >
           </ThemeSpaceListGeneric>
