@@ -1126,7 +1126,7 @@
             <panelcolors>
               <ThemePanelColors
                 header="#282a36ff"
-                back="#282a36ff"
+                back="#282a3680"
                 sub_back="#0000001f"
                 >
               </ThemePanelColors>
