@@ -351,7 +351,7 @@
     </user_interface>
     <view_3d>
       <ThemeView3D
-        grid="#282a3680"
+        grid="#6272a466"
         clipping_border_3d="#323232ff"
         wire="#1a1a1a"
         wire_edit="#1a1a1a"
@@ -444,7 +444,7 @@
             >
             <gradients>
               <ThemeGradientColors
-                background_type="RADIAL"
+                background_type="LINEAR"
                 high_gradient="#353d58"
                 gradient="#282a36"
                 >
@@ -1012,13 +1012,13 @@
     </node_editor>
     <outliner>
       <ThemeOutliner
-        match="#337f33"
-        selected_highlight="#82878c"
-        active="#334d80"
-        selected_object="#e96a00"
-        active_object="#ffaf29"
-        edited_object="#00806266"
-        row_alternate="#ffffff04"
+        match="#bd93f9"
+        selected_highlight="#44475a"
+        active="#6272a4"
+        selected_object="#ff5555"
+        active_object="#ffb86c"
+        edited_object="#50fa7b66"
+        row_alternate="#f8f8f204"
         >
         <space>
           <ThemeSpaceGeneric
