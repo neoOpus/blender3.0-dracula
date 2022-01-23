@@ -1254,11 +1254,11 @@
       <ThemeTopBar>
         <space>
           <ThemeSpaceGeneric
-            back="#181818"
+            back="#1f1f2a"
             title="#ffffff"
             text="#e6e6e6"
             text_hi="#ffffff"
-            header="#1f1f2ab3"
+            header="#1b1b24ff"
             header_text="#eeeeee"
             header_text_hi="#ffffff"
             button="#30303000"
@@ -1292,7 +1292,7 @@
             title="#ffffff"
             text="#838383"
             text_hi="#ffffff"
-            header="#1f1f2aff"
+            header="#1b1b24ff"
             header_text="#888888"
             header_text_hi="#ffffff"
             button="#30303000"
