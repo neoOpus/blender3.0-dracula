@@ -6,7 +6,7 @@
         menu_shadow_width="12"
         icon_alpha="1"
         icon_saturation="0.5"
-        widget_emboss="#242431ff"
+        widget_emboss="#1b1b1bff"
         editor_outline="#1f1f2a"
         widget_text_cursor="#8be9fd"
         panel_roundness="0.4"
@@ -26,10 +26,10 @@
         icon_collection="#f8f8f2ff"
         icon_object="#ffb86cff"
         icon_object_data="#50fa7bff"
-        icon_modifier="#74a2ffff"
+        icon_modifier="#8be9fdff"
         icon_shading="#ff5555ff"
         icon_folder="#ffb86cff"
-        icon_border_intensity="0"
+        icon_border_intensity="1"
         >
         <wcol_regular>
           <ThemeWidgetColors
@@ -289,9 +289,9 @@
         <wcol_progress>
           <ThemeWidgetColors
             outline="#282a36"
-            inner="#bebebeff"
+            inner="#282a36ff"
             inner_sel="#646464b4"
-            item="#282a36ff"
+            item="#8be9fdff"
             text="#f8f8f2"
             text_sel="#f8f8f2"
             show_shaded="FALSE"
@@ -305,7 +305,7 @@
           <ThemeWidgetColors
             outline="#282a36"
             inner="#00000000"
-            inner_sel="#2d2d2de6"
+            inner_sel="#282a36e6"
             item="#282a36ff"
             text="#f8f8f2"
             text_sel="#f8f8f2"
@@ -540,7 +540,7 @@
     </graph_editor>
     <file_browser>
       <ThemeFileBrowser
-        selected_file="#6272a4"
+        selected_file="#d8834d"
         row_alternate="#f8f8f204"
         >
         <space>
@@ -553,7 +553,7 @@
             header_text="#f8f8f2"
             header_text_hi="#f8f8f2"
             button="#44475a7f"
-            button_title="#ffb86c"
+            button_title="#f8f8f2"
             button_text="#f8f8f2"
             button_text_hi="#f8f8f2"
             navigation_bar="#303030ff"
@@ -565,8 +565,8 @@
             >
             <panelcolors>
               <ThemePanelColors
-                header="#00000019"
-                back="#44475a80"
+                header="#282a36ff"
+                back="#282a3680"
                 sub_back="#0000001f"
                 >
               </ThemePanelColors>
