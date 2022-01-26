@@ -557,7 +557,7 @@
             button_text="#f8f8f2"
             button_text_hi="#f8f8f2"
             navigation_bar="#303030ff"
-            execution_buts="#303030ff"
+            execution_buts="#282a36ff"
             tab_active="#44475a"
             tab_inactive="#44475a"
             tab_back="#282a36ff"
@@ -1137,16 +1137,16 @@
     </preferences>
     <console>
       <ThemeConsole
-        line_output="#6080ff"
+        line_output="#8be9fd"
         line_input="#f8f8f2"
-        line_info="#00aa00"
-        line_error="#dc6060"
-        cursor="#dc6060"
-        select="#f8f8f230"
+        line_info="#50fa7b"
+        line_error="#ff5555"
+        cursor="#ff5555"
+        select="#6272a47e"
         >
         <space>
           <ThemeSpaceGeneric
-            back="#000000"
+            back="#282a36"
             title="#ffb86c"
             text="#f8f8f2"
             text_hi="#f8f8f2"
