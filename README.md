@@ -16,6 +16,11 @@ This theme is maintained by the following person and a bunch of [awesome contrib
 |------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 [Allie (ChildishGiant)](https://github.com/childishgiant)                                                                | [Mylo (LowPolygon-Design)](https://github.com/lowpolygon-design)                                                       |
 
+## Community
+
+- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
+- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
+- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
 
 ## License
 
