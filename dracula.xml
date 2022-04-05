@@ -577,17 +577,17 @@
     </file_browser>
     <nla_editor>
       <ThemeNLAEditor
-        grid="#5e5e5e"
+        grid="#44475a"
         view_sliders="#969696"
         dopesheet_channel="#0f2c4d"
         nla_track="#303030"
-        active_action="#cc701a66"
+        active_action="#ffb86cff"
         active_action_unset="#9987614d"
         preview_range="#a14d0066"
         strips="#0c0a0a"
         strips_selected="#ff8c00"
         transition_strips="#1c2630"
-        transition_strips_selected="#2e75db"
+        transition_strips_selected="#8be9fd"
         meta_strips="#332642"
         meta_strips_selected="#692196"
         sound_strips="#2b3d3d"
@@ -596,14 +596,14 @@
         tweak_duplicate="#ff5555"
         keyframe_border="#000000ff"
         keyframe_border_selected="#000000ff"
-        frame_current="#ffb86c"
-        time_scrub_background="#161616ff"
+        frame_current="#6272a4"
+        time_scrub_background="#191b27ff"
         time_marker_line="#ffffff4d"
         time_marker_line_selected="#ffffffb3"
         >
         <space>
           <ThemeSpaceGeneric
-            back="#6b6b6b"
+            back="#282a36"
             title="#ffb86c"
             text="#f8f8f2"
             text_hi="#f8f8f2"
@@ -633,7 +633,7 @@
         </space>
         <space_list>
           <ThemeSpaceListGeneric
-            list="#666666"
+            list="#44475a"
             list_title="#ffb86c"
             list_text="#f8f8f2"
             list_text_hi="#f8f8f2"
@@ -949,7 +949,7 @@
         node_backdrop="#44475aff"
         converter_node="#8be9fd"
         color_node="#f1fa8c"
-        group_node="#69756eff"
+        group_node="#69756e"
         group_socket_node="#dfca35"
         frame_node="#6272a4a0"
         matte_node="#977474"
