@@ -63,7 +63,7 @@
         </wcol_tool>
         <wcol_toolbar_item>
           <ThemeWidgetColors
-            outline="#3d3d3d"
+            outline="#44475a"
             inner="#282a36ff"
             inner_sel="#6272a4ff"
             item="#ffffffb3"
@@ -291,8 +291,8 @@
             outline="#282a36"
             inner="#282a36ff"
             inner_sel="#646464b4"
-            item="#8be9fdff"
-            text="#f8f8f2"
+            item="#6272a4ff"
+            text="#989898"
             text_sel="#f8f8f2"
             show_shaded="FALSE"
             shadetop="0"
@@ -428,10 +428,10 @@
             title="#f8f8f2"
             text="#f8f8f2"
             text_hi="#f8f8f2"
-            header="#282a36b3"
+            header="#282a3600"
             header_text="#f8f8f2"
             header_text_hi="#f8f8f2"
-            button="#44475aff"
+            button="#44475a00"
             button_title="#f8f8f2"
             button_text="#f8f8f2"
             button_text_hi="#f8f8f2"
