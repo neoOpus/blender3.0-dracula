@@ -428,10 +428,10 @@
             title="#f8f8f2"
             text="#f8f8f2"
             text_hi="#f8f8f2"
-            header="#282a3600"
+            header="#282a36ff"
             header_text="#f8f8f2"
             header_text_hi="#f8f8f2"
-            button="#44475a00"
+            button="#44475aff"
             button_title="#f8f8f2"
             button_text="#f8f8f2"
             button_text_hi="#f8f8f2"
@@ -440,7 +440,7 @@
             tab_active="#44475a"
             tab_inactive="#282a36"
             tab_back="#282a36ff"
-            tab_outline="#3c3c3c"
+            tab_outline="#282a36"
             >
             <gradients>
               <ThemeGradientColors
@@ -453,7 +453,7 @@
             <panelcolors>
               <ThemePanelColors
                 header="#282a36ff"
-                back="#44475a80"
+                back="#282a3680"
                 sub_back="#0000001f"
                 >
               </ThemePanelColors>
