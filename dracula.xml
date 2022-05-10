@@ -6,7 +6,7 @@
         menu_shadow_width="12"
         icon_alpha="1"
         icon_saturation="0.5"
-        widget_emboss="#1b1b1bff"
+        widget_emboss="#0e0e0e00"
         editor_outline="#1f1f2a"
         widget_text_cursor="#8be9fd"
         panel_roundness="0.4"
@@ -29,7 +29,7 @@
         icon_modifier="#8be9fdff"
         icon_shading="#ff5555ff"
         icon_folder="#ffb86cff"
-        icon_border_intensity="1"
+        icon_border_intensity="0"
         >
         <wcol_regular>
           <ThemeWidgetColors
@@ -243,8 +243,8 @@
         </wcol_pie_menu>
         <wcol_tooltip>
           <ThemeWidgetColors
-            outline="#282a36"
-            inner="#44475ae6"
+            outline="#44475a"
+            inner="#282a36ff"
             inner_sel="#2d2d2de6"
             item="#282a36ff"
             text="#f8f8f2"
@@ -384,8 +384,8 @@
         face_dot="#ffb86c"
         facedot_size="4"
         freestyle_face_mark="#7fff7f33"
-        face_back="#ff0000b3"
-        face_front="#0000ffb3"
+        face_back="#ff5555b3"
+        face_front="#0000ff00"
         nurb_uline="#909000"
         nurb_vline="#803060"
         nurb_sel_uline="#f0ff40"
@@ -1150,7 +1150,7 @@
             title="#ffb86c"
             text="#f8f8f2"
             text_hi="#f8f8f2"
-            header="#44475ab3"
+            header="#282a36ff"
             header_text="#f8f8f2"
             header_text_hi="#f8f8f2"
             button="#44475a7f"
